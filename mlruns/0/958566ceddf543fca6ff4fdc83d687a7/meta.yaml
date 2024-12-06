@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Irene%20Chelsia/OneDrive/Desktop/mlflow-test/mlruns/0/958566ceddf543fca6ff4fdc83d687a7/artifacts
+end_time: 1733453305340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 958566ceddf543fca6ff4fdc83d687a7
+run_name: clean-deer-482
+run_uuid: 958566ceddf543fca6ff4fdc83d687a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733453301769
+status: 3
+tags: []
+user_id: Irene Chelsia
